@@ -1,2 +1,2 @@
-# GenericPOS
-It is POS application with C# windows forms and small database for basic functionalities.
+# POS-Restaurant-Management
+ This is incomplete restaurant management POS project. With windows forms.
